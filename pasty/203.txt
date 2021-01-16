@@ -1,0 +1,392 @@
+Mój ojciec załatwił mi pracę w dziale IT. Nie wiem za dużo o IT, poza grami.
+To moje opowieści z pracy.
+
+Dzień 1
+>kobieta prosi mnie o zainstalowanie najnowszego adobe readera
+>spoko, mam to
+>ściągam program
+>"Wow, jesteś w tym ekspertem"
+>"No cóż..."
+>komputer prosi o wpisanie hasła admina
+>zapomniałem hasła admina
+>próbuje: hasło
+>nope.jpg
+>"ehh... emm... cholera, chyba coś jest z serwerem, zaraz wracam"
+>3 miesiące później, ona wciąż nie ma adobe readera
+
+Dzień 2
+>wkurwiony koleś do mnie dzwoni, pyta o coś w programie domowym
+>nie mam pojęcia co mówi
+>pauza
+>koleś czeka na odpowiedź
+>przypominam sobie "IT Crowd"
+>"Próbował pan wyłączyć go i włączyć na nowo?
+>Zresetować znaczy się?"
+>"Moment..."
+>zadziałało
+
+Dzień 3
+>laska ze sprzedaży przychodzi z laptopem, jakiś problem
+>kocica 9/10
+>flirtuje ze mną
+>mówi, że potrzebuje ściągnąć jakąś aktualizacje
+>jedyne co słyszę to jej cycki
+>jej laptop pachnie truskawkami
+>ściągam adobre reaera i oddaję jej laptopa
+
+Dzień 4
+>nauczyłem się wyłączać serwery
+>ludzie zaczynają prosić o pomoc, idę do serwerowni 
+>wyłączam serwery
+>wychodzę zdezorientowany, zaczynam instalować adobe readera
+>w końcu ludzie zaczynają się drzeć
+>STRONA NIE DZIAŁA! STRONA NIE DZIAŁA!
+>"biore się za to!"
+>biegnę do serwerowni
+>gram w Hotline Miami przez kilka godzin
+>włączam serwery pod koniec dnia
+>wychodzę z serwerowni
+>wycieram pot z czoła
+>"dałem rade..."
+>ludzie chwalą mnie, mówią że uratowałem firmę
+>tak naprawdę to uratowałem swoją dziewczynę w HM
+
+Dzień 5
+>spotykam kocicę przy ekspresie do kawy
+>zapytałem się co u niej, proste pytanie
+>zaczyna opowiadać o problemach z jej komputerem
+>nie widzi we mnie człowieka
+>widzi we mnie IT
+>mówię, żeby podrzuciła do mnie laptopa
+>robi to
+>upgrade'uję jej IE
+>instaluje adobe reareda
+>resetuje komputer
+>wszystko śmiga
+>zanoszę go jej
+>poprawiam fryzurę
+>sprawdzam oddech
+>zachowuje się jak bym ją ocalił
+>siedzi w swoim biurze, gada przez telefon
+>ręką pokazuje, żebym położył laptopa na biurko
+>robię to, i trochę się ociągam
+>"To wszystko skarbie?"
+>wychodzę
+>słyszę jak mówi "oh, to był tylko IT"
+>tylko IT
+>teraz jestem tylko tym
+
+Dzień 6
+>cholernie się nudzę
+>postanowiłem ściągnąć emulator gameboya i pograć w pokemony
+>filtry go blokują, więc je wyłączam, nie dodaje emulatora do listy, po prostu wyłączam filtry
+>uruchomiłem stronę z emulatorem, ale muszę wyłączyć antywirusa
+>używam konta admina, bo w końcu znam hasło
+>wyłączyłem globalnie antywirusa na całym serwerze
+>ściągnąłem emulator i pokemony
+>gram sobie
+>koleś przychodzi do mojego biura
+>"chyba mam wirusa"
+>ja: "złap je wszystkie"
+>do czasu aż doszedłem do Misty, 4 osoby złapały wirusy
+
+Dzień 7
+>ten sam koleś który darł się na mnie drugiego dnia znowu się na mnie drze
+>nie może się zalogować, a ja właśnie wychodziłem do domu
+>"wyłącz i uruchom ponownie i oddzwoń"
+>idę do domu
+
+Dzień 8
+>koleś z siódmego dnia znowu dzwoni
+>jest wkurwiony
+>mówi mi, że przez moją głupotę stracił klienta
+>"zdarza się stary, ja przed chwilą przegrałem z zespołem r"
+>"o czym ty kurwa mówisz?"
+>click
+
+Dzień 9
+>jedna z drukarek zużyła cały toner
+>jakiś grubas każe mi go zmienić
+>"to tylko toner stary, nie umiesz go sam zmienić? pracuję teraz nad jednym sporym problemem z serwerem"
+>tak serio to ściągam steama
+>"to zajmie tylko sekunde... boże, mam dużo do zrobienia, od tego ty jesteś"
+>wzdycham i idę to zrobić
+>nie potrafię otworzyć pieprzonej drukarki żeby dostać się do tonera
+>zaczynam w nią walić jak w "zoolanderze"
+>mówię nieco opóźnionemu kolesiowi w biurze że mam dla niego specjalną misje
+>musi schować magiczne jajko w skrzyni Hewlett Packarda
+>wracam do sprawy z serwerem
+>pół godziny później grubas wchodzi do biura
+>"ćoś ty kurwa zrobił z drukarką?"
+>"zmieniłem tusz"
+>zaczyna kręcić głową i coś mówi pod nosem
+>idziemy do drukarki
+>opóźniony koleś wcisnął kardridż w złą stronę i go zaklinował, połowa wystaje
+>drukarka nawet się nie zamknie
+>są czarne ślady dłoni na całej drukarce
+>czuje że grubas mnie osądza, więc coś szybko wymyślam
+>"chyba jest coś nie tak z siecią"
+>drukarka nie działa przez miesiąc zanim się skapnąłem, że mamy numer do kolesia z serwisu HP
+
+Dzień 10
+>muszę zamotntować projektor w biurze do prezentacji
+>nie mogę znaleźć kable thunderbolt-hdmi, żeby go podpiąć, a nie chce mi się iść do sklepu
+>nie mam nawet karty firmowej
+>mówię kolesiowi który potrzebuje projektora, że jest problem kompatybilności z macbookiem
+>może użyć della kogoś innego
+>pliki z maca nie działają na dellu
+>zadzwonili do mnie w trakcie zebrania
+>wszyscy ci beznesmeni na mnie patrzą, jak losowo klikam i szybko ruszam myszką, wyglądając na profesjonalistę
+>ściągam adobe readera
+>otwieram plik
+>działa
+>"Dzięki Anon, ocaliłeś mnie"
+
+Dzień 11
+>nowy pracownik w firmie
+>nikt mnie nie poinformował
+>opieprzyli mnie za to, że nie przygotowałem komputera dla nowej osoby
+>idę do magazynu zobaczyć czy mamy tam coś
+>jest kilka sztuk
+>ale jest jakiś naprawdę stary komputer, z początku lat 90tych
+>odpalam
+>działa
+>ustawiam go dla nowego kolesia
+>wszystko laguje
+>odpalasz adobe readera? masywny lag
+>odsyłam komputer
+>"sorry, ale tylko to udało mi się załatwić bez wcześniejszego powiadomienia"
+>koleś ciągle prosi mnie o pomoc
+>jest beznadziejny
+>po tygodniu odszedł z firmy, twierdząc, że nie może pracować w takich warunkach
+
+Dzień 12
+>czyiś komputer się spieprzył
+>kurrrrr
+>ustawiam
+>przypominam sobie coś o profilach zapisywanych w wewnętrznej sieci
+>idę do serwerowni
+>patrzę się na serwery jak kompletny idiota, próbując się zorientować jak to działa
+>wracam i mówię kolesiowi, że nie mogę z tym nic zrobić
+>"a... ale mój projekt, muszę go pokazać zarządowi w piątek..."
+>"sorry stary, ale nic się nie da z tym zrobić"
+>gram sobie w sim theme park przez resztę dnia
+
+Dzień 13
+>przychodzę do pracy godzinę spóźniony
+>całe biuro w chaosie
+>upadekrzymu.jpg
+>"JEST TUTAJ!"
+>odpalam komputer w swoim biurze, sprawdzam maila
+>dziesiątki mailu w stylu:
+>"coś jest nie tak z serwerem, nie mogę się zalogować do..."
+>"wiesz czemu strona nie działa?"
+>serwer faktycznie nie działa
+>adobe reader mnie teraz nie ocali
+>"po prostu idź tam i zrób to samo, co zrobiłeś ostatnio!"
+>wszyscy myślą, że to tak łatwo naprawić
+>roztrzęsiony wchodzę do serwerowni, bo nie wiem co mam robić
+>ucinam sobie drzemkę przez cały dzień
+>ludzie są wkurwieni, walą w drzwi do serwerowni
+>terminy minięte
+>wychodzę o 18:30
+>manager widzi mnie na parkingu
+>był na spotkaniu cały dzień, nie wie przez co przeszedłem
+>"wciąż tutaj? podoba mi się twoje podejście!"
+
+Dzień 14
+>serwery dalej nie działają
+>wszyscy wkurwieni
+>idę na wczesny lunch
+>słyszę jak ktoś w jadalni gada o kupnie nowego modemu do biura
+>dziekibogu.jpg
+>"Hej, sorry że przeszkadzam, ale czy któryś z was jest IT?"
+>zanim któryś z nich zareagował i pyta "jak śmię" mówię
+>"też jestem IT"
+>pokazuję im dłoń którą poobdzierałem kablami w serwerowni
+>obaj kiwają głową
+>"co byście zrobili, gdyby wasze serwery się całkowicie spieprzyły?"
+>"próbowałeś go zrestartować?"
+>wracam i restartuje serwer
+>kurwa, działa!
+
+Dzień 15
+>kocica chodzi po biurze poddenerwowana
+>"Wszystko ok?"
+>"Nie mogę się zalogować na maila. Możesz mi pomóc? Proszę"
+>"Spoko"
+>biorę laptopa
+>reinstaluje office'a
+>outlook znowu działa
+>przeglądam maile, żeby upewnić się że działają
+>wysyłam testowego maila
+>czytam tytuły jej nowych maili
+>"Rozwód"
+>oddaje jej laptopa
+>"Wygląda na to, że działa"
+>"Dzięki..."
+>"Wszystko ok?"
+>"Cóż..."
+>tak! wypłacz mi się na ramieniu i się rozkręcimy!
+>"Mysz się chyba zepsuła, mogę dostać nową?"
+
+Dzień 16 
+>jeden z monitorów upośledzonego nie działa
+>wyświetla się całkowicie na zielono
+>na temat: dałem mu drugi monitor, bo myślałem że jak ktoś zasługuje na dwa, to właśnie ten biedak
+>jedyne co robi to przegląda tapety na msn
+>i używa jakiegoś programu fedexa
+>jest miły, więc faktycznie próbuję mu to naprawić
+>nic nie działa
+>to nie sterownik
+>to nie ustawienia
+>to chyba coś z samym montorem
+>cały czas ludzie do mnie przychodzą z prawdziwymi problemami, zbywam ich mówiąc "zaraz będę"
+>po dwóch godzinach koleś mówi
+>"może wtyczka jest zepsuta?"
+>zmieniłem kabel hdmi na nowy
+>zadziałało
+>oficjalnie jestem gorszy w swoim zawodzie niż opóźniony umysłowo koleś
+
+Dzień 17
+>miła staruszka narzeka, że jej się zepsuła klawiatura
+>jest najstarszą osobą w biurze
+>stara jak dinozaury
+>mówię, że coś dla niej mam
+>wracam do tyłu i odpakowywują nową klawiaturę dla programistów
+>zanoszę ją jej
+>"jesteś taki pomocny"
+>sięgam do tyłu żeby podpiąć nową klawiaturę
+>podnoszę się i otrzepuję spodnie
+>staruszka wygląda jakby miała zawał
+>patrze na ekran
+>czarny
+>wstając nacisnąłem przycisk power
+>straciła 3 godziny pracy
+>3 godziny których nigdy nie odzyska
+
+Dzień 18 
+>firmowe spotkanie
+>przekroczyliśmy budżet
+>było dużo wydatków
+>straciliśmy dużo pieniędzy przez prawie cały ostatni miesiąc
+>dzień 18
+>prawie cały miesiąc
+>wylecę na zbity pysk
+>budżet departamentu IT zostaje poruszony
+>są tylko dwa departamenty które nie przekroczyły budżetu
+>"Dobra robota Anon, słyszałem o problemach z serwerem. Jesteś dobrym człowiekiem na dobrym miejscu"
+>pod koniec spotkania kobieta, około 45 lat, podchodzi i pyta czy naprawiam komputery poza firmą
+>"Niezbyt..."
+>"Oh, bo mam jedną cholerną rzecz której nie mogę naprawić. Nie mógłbyś wpaść i tego naprawić?"
+>gówno prawda
+>dla jaj mówię "dobra, spoko, daj adres i podjadę po pracy"
+>nie wiem czy będzie seks
+>kupuje gumki
+>nie jest taka ładna 6/10 góra
+>nie będę kłamał
+>mocno średnia
+>podjeżdżam do jej domu
+>dzwonię do drzwi, staram się wyglądać słodko
+>mąż otwiera drzwi
+>pokazuje mi konputer
+>instaluje najnowszego adobe readera
+>zarabiam 20$
+>jadę do domu
+
+Dzień 19 
+>jakiś koleś zepsuł program, więc muszę ustawić wszystko na nowo
+>sprawdzam ustawienia
+>po dwóch godzinach
+>"zepsułeś mój komputer... chcę żebyś naprawił mój cholerny komputer, ma być tak jak było, nie wiem co zrobiłeś, ale coś jest nie tak, moje usb bzyczy"
+>wtf
+>nie zrobiłem nic z kompem, tylko sprawdziłem program który odpalasz 20 razy dziennie
+>wkurwiony wracam do serwerowni i gram w Thomas Was Alone
+>pukanie do drzwi
+>to ten koleś
+>"hej, dzięki za naprawienie tego"
+>"czego?"
+>"mojego usb"
+>nic nie zrobiłem
+>"a, to... spoko"
+
+Dzień 20 
+>spędziłem cąły dzień sprzątająć serwerownię
+>wygląda całkiem nieźle
+>odpiąłem kable sieciowe żeby je oznaczać kolorami
+>ludzie tracą swoje projekty
+>losowo są wywalani z serwera
+>mówię, że są problemy z isp
+>staram się mówić ISP, bo nauczyłem się, że jak używam skrótów to brzmię jak bym wiedział o czy mówię
+>pod koniec dnia serwerownia wygląda wręcz ślicznie
+>niestety nie oznaczyłem nic i niektórzy ludzie nie są podpięci
+>mówię im, że ISP naprawi to ASAP i wracam do domu
+
+Dzień 21
+>teraz jak serwerownia jest uporządkowana, podpinam testowe jednostki
+>8 komputerów podpiętych do jednej sieci
+>próbuję połączyć monitory ze sobą, jak to czasami na forach można zobaczyć
+>to są stare monitory i nie można tego zrobić
+>wpadłem na pomysł użycia tych komputerów do kopania bitcoinów
+>ustawiłem wszystko do południa
+>po lunchu zaczynam kopanie
+>okropnie powoli, ale zaczynam
+>ludzie narzekają na lagi serwera
+>obwiniam olimpiadę za lagi
+>mówię, że całe buro musi je streamować
+>banuję olimpiadę na filtrze systemowym
+>biuro jest podzielone, widzę ten podział na swoim mailu
+>ludzie wkurwieni, że nie mogą oglądać igrzysk
+>i pozostali, którzy twierdzą, że praca to nie zabawa
+>oficjalnie zyskałem władzę w firmie, ludzie wiedzą kto tu rządzi
+>"To jest koleś którego ta firma potrzebowała"
+
+Dzień 22
+>dzień urodzin
+>całe biuro świętuje urodziny ludzi w danym miesiącu
+>biorę ciasto
+>podpinam n64 w jednym z biur
+>wyzywam ludzi na partyjkę w goldeneye
+>mówię "hej, mam 5 minut przerwy na ciasto... zagramy partyjkę?"
+>skopałem im wszystkim dupy
+>zdałem sobie sprawę, że cały dzień nie robiłem nic poza graniem i jedzeniem ciasta
+>nikt nie zauważył
+
+Dzień 23
+>kocica dzwoni z trasy
+>ma problemy dostać się do jednej z ważniejszych aplikacji dla klienta na jej ipadzie
+>mówi nazwę tej apki
+>nie mam pojęcia co to jest
+>staram się brzmieć jakbym rozumiał wszystko
+>pytam, czy używa WIFI czy 3G
+>"jak to sprawdzam?"
+>"nieważne, czekaj, sprawdzę nasz główny system"
+>googluję apke, ale nic się nie pojawia
+>pytam kogoś ze sprzedaży
+>"oh, to tylko infografika z naszej strony"
+>mówię kocicy, że musi się wrócić do biura bo muszę jej wgrać zmiany do ipada
+>jedzie 2 godziny do pracy tylko żebym mógł otworzyć Safari i dodać zakładkę do strony głównej
+
+Dzień 24
+>45 latka wygadała się, że robię też poza pracą
+>teraz idioci proszą o naprawę ich komputerów w domu, telefonów komórkowych, wszystkiego co techniczne
+>mówię, że mogę to zrobić tylko po pracy, 20$ za małe rzeczy, 50$ za duże
+>większość to proste naprawy
+>aktualizowanie windowsa albo adobe readera wszystko naprawia
+>ale wtedy trafił mi się on
+>laptop z piekła rodem
+>gruby indianin daje mi swojego laptopa w plastikowej reklamówce, nie torbie na laptopa, reklamówce
+>"co z nim nie tak?"
+>"ty mi powiedz, geniuszu"
+>odpalam komputer, prosi o przywracanie systemu
+>klikam enter
+>naprawia to, ale prosi o uruchomienie chkdisk?
+>wydaje mi się, że to coś z napędem cd
+>otwieram napęd
+>jest tam gruba warstwa okruchów
+>przechylam laptopa na bok
+>pieprzone okruchy wysypują się z laptopa
+>resetuję laptopa
+>wczytuje się bez problemu
+>okazuje się, że koleś używał cd w swoim laptopie jako podkładki pod kanapki
+>pieprzone laptopy

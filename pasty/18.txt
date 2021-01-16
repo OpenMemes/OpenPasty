@@ -1,0 +1,28 @@
+Biedronki mają, ze wszystkich owadów, najbardziej chujowy software, jaki istnieje. Serio kurwa.
+Bo taka na ten przykład pszczoła - zapierdala, szuka kwiatów, nawiguje na słońce, zbiera nektar, znosi do gniazda - no w chuj skomplikowane. Zresztą, kurwa - mucha. Mucha też musi wyczuwać woń gówna i ścierwa, nawigować, szukać pożywienia, złożyć jaja w jakimś dobrym ścierwie. Wcale nie takie proste.
+A jak działa biedronka?
+Otóż pierwszy punkt algorytmu biedronki brzmi:
+
+1. Zapierdalaj w górę.
+Nie wiem, czy bawiliście się kiedyś biedronkami. Jak się to weźmie na rękę, to zawsze idzie w góre. Zawsze kurwa. Zawsze. Jak się jej w połowie drogi odwróci rękę, to się zatrzyma i zmieni kierunek, żeby isć w górę. Można se tak ruszać pińćset razy i zawsze jebana w górę. Biedronka to taki jebany owadzi odpowiednik gradientu. Zawsze się kieruje w górę zbocza.
+Ma to w chuj zabawne konsekwencje, jak się biedronkę postawi na płaskiej powierzchni. Zaczyna iść w przypadkowym kierunku, bo kurwa nie ma jak iść pod górę. Najlepiej jak dojdzie do krawędzi. Wtedy ten jej zjebany mósk cannot into logika, tylko zaczyna iść wzdłuż krawędzi. W dół nie zejdzie, bo kurwa algorytm, a na płaskie też nie wróci, chuj wie czemu.
+Kiedyś z kolegą ze studiów znaleźliśmy na wykładzie biedronkę. Ławki w auli były w chuj długie, na jakieś 30 m. Mówię mu: pacz kurwa i położyłem biedronkę na ławce. Doszła do krawędzi i idzie wzdłuż. Idzie kurwa i idzie, doszła do końca, skręciła i dalej wzdłuż kolejnej krawędzi, a potem jeszcze raz i szła znowu w naszą stronę.
+45 minut jebana szła przez te 30 metrów i ni kurwa chuja nie ogarnęła, że sytuacja jest przejebana i może by gdzieś polecieć, bo gówno. Nie, kurwa.
+Jakby ławka miała kilometr, to by jebana zdechła po drodze.
+Ciąg dalszy algorytmu brzmi:
+
+2. Jak jesteś na szczycie to poleć byle kurwa gdzie.
+Jak już pozwolicie wejść biedronce na szczyt palca, czy chuja, czy czegoś, to obróci się dookoła, upewni, że gradient się wyzerował i fruuuu kurwa w losowym kierunku. Czasem potrafi wylądować znowy na tej samej ręce xD
+
+3. Jak już leziesz i coś znajdziesz do żarcia, to opierdol.
+Nie no, akurat całkiem spoko punkt. Tylko kurwa, metoda szukania po chuju.
+
+4. Jak cię coś przestraszy - to się zesraj.
+Wiem, że ta żółtobrązowa maź to nie sraka, ale kurwa, jakie lepsze słowo może to opisać. Ewentualnie rzygi? Chuj tam semantyka. Ważne, że jak biedronkę spotka zagrożenie, to zwija nóżki i sra tym smrodem. Kurwa. KURWA. Przecież ma skrzydła, mogłaby spierdalać. Ale nie, kurwa. Zesraj się.
+Najlepsze jak się wpierdoli biedronkę do pajęczyny. Jak byłem mały to wrzucałem tam różne owady. Jak wrzucisz muchę, to do ostatniej chwili walczy, żeby odlecieć i nawet czasem zdąży, zanim ją pająk dorwie. Rzadko, ale jednak. Pszczoła to już w ogóle siła, stronk i mało która pajęczyna utrzyma.
+A biedronka co?
+ZESRA SIĘ KURWA. Przychodzi pająk, paczy, okurwajakjebie.jpg.
+Co robi? XDDDDD owija kurwę pajęczyną i wypierdala z pajęczyny. Nie dość, że kurwa nie zje, bo smrut, to jeszcze jebana zdechnie z głodu, bo ją opędzlował jak pojebany pajęczyną XDDDDD
+Acha - jeszcze jedno - przyglądaliście się, jak wyglądają oczy biedronki? To nie są te kurwa wielkie białe plamy. Nie. Oczy biedronki to małe kropeczki na tej durnej mordzie. Co ona tym widzi? Pewno chuja widzi. Mucha ma wyjebane w kosmos, dizajnerskie oczy, bo musi być czujna, patrzeć, analizować. To samo pszczoła.
+ALe nie kurwa biedronka. Po chuj jej oczy, jak tylko lezie w górę, lata pisiont centymetrów i sra? xD
+W tym roku najebało biedronek jak pokurwionych. Możecie się pobawić, sprawdzić. Tylko uwaga - bo SIĘ ZESRAJĄ!

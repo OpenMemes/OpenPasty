@@ -1,0 +1,89 @@
+Odkąd jestem programistą jednym z moich marzeń stało się stworzenie jedynej w swoim rodzaju gry komputerowej, czegoś, czego jeszcze nikt w branży nie stworzył do tej pory.
+"Spore" bardzo mnie zaciekawiło. Oto próba oddania ludziom kontroli nad wszechświatem, po dokładnym przyjrzeniu się, co sprawia, że gry wideo są takie popularne.
+Stwierdziłem, że głównym czynnikiem jest kontrola. Ludzie w życiu codziennym nie mają wpływu na ich otoczenie.
+Robią to, co się im każe, chodzą tam, gdzie się im każe, żyją tak, jak się im każe.
+Ich zajęcia składają się ze stania lub siedzenia gdzieś do 17:00, a potem pozwala się im iść do domu. Nie jest tajemnicą, że są nieszczęśliwi.
+Dla wielu osób gry wideo są ucieczką do świata, gdzie mają kontrolę lub prowadzą swoje wirtualne życia pełne przygód i emocji.
+Pewna doza kontroli znajdowana jest w grach strategicznych, przygoda w grach RPG. Przyjrzałem się grom takim jak "The Sims" i zauważyłem, że to, co sprawiło, że są takie popularne, to nie tylko iluzja posiadania kontroli, ale rzeczywista kontrola, w pewnym stopniu.
+Masz kompletny wpływ na życie ludzkie. Przed "The Sims" było "Sim Earth".
+Gra, w której nie sprawujesz kontroli na konkretnymi jednostkami, ale nad całą Ziemią! Doszedłem do wniosku, że muszę stworzyć grę podobną do "Spore", w której gracz subtelnie "kieruje" procesem ewolucji. Czynnikiem, który spowodował, że owa gra była tak dużym niepowodzeniem, był brak realistycznej kontroli nad czymkolwiek.
+Ewolucja została tam potraktowana po macoszemu. Aby to osiągnąć, zacząłem najpierw prace nad systemem fizyki.
+Mało znam się na fizyce, ale zacząłem pobierać nauki z tej dziedziny i próbowałem stworzyć jej uproszczoną wersję,gdzie pewne cząsteczki oddziałują ze sobą w określony sposób.
+Wyszło na to, że fizyka sprowadza się po prostu do złożonej matematyki. Zasymulowałem energię, materię i stworzyłem prosty system ze słońcem emitującym energię oraz okrążającymi go planetami, które tę energię pobierały.
+Postanowiłem od podstaw stworzyć najprostsze komórki, które były wpisane w program, że tak powiem, który projektowałem.
+Żyły energią emitowaną przez słońce i miały kod "genetyczny", który zawierał informacje o substancjach produkowanych przez komórki.
+Chyba możecie je nazywać eukariotami. Mój świat w ciągu kilku minut zawsze wypełniał się tymi komórkami, które następnie mutowały, a przetrwały najbardziej rozwinięte komórki, które nauczyły się zamieniać energię dostarczoną przez słońce w użyteczne substancje potrzebne do podziału.
+To było bardzo nudne, ale chyba działało. Postanowiłem rozszerzyć system fizyki i zmusić komórki do wytwarzania odpadów, które były toksyczne i je zabijały.
+Zauważyłem, że niektóre komórki zaczęły produkować mniej odpadów. Inne rozpoczęły produkcję czegoś, co pomogło im pozbyć się produktów ubocznych.
+Jeszcze inne wykształciły zdolność produkcji związków, które neutralizowały toksyczne odpady.
+W tym wszystkim odkryłem coś fascynującego. Uruchomienie symulacji na kilka stuleci (kilka minut czasu rzeczywistego) poskutkowało wytworzeniem się komórek, które wytwarzały ogromne ilości odpadów celowo. Zauważyłem, że inne komórki na skutek tego umierały, a te pierwsze pochłaniały ich pokłady energii.
+Tak narodzili się pierwsi drapieżnicy. Po wyewoluowaniu pierwszych drapieżników różnorodność tego świata gwałtownie wzrosła. Niektóre wykształciły sposób na ucieczkę w przypadku napotkania tych toksyn. Inne stały się na nie odporne, a ostatecznie nauczyły się z nich korzystać.
+Po jakimś czasie zauważyłem coś ciekawego. Komórki, które uciekły przed toksynami, tworzyły grupy z komórkami, które potrafiły już toksyn używać dla własnych korzyści.
+Trzymały się razem i pomagały sobie. Ostatecznie połączyły się. Powstała dziwna symbioza, gdzie komórki, które normalnie by uciekły, teraz szukały miejsc, gdzie toksyny się znajdują, a ta druga komórka pochłaniała odpady dostarczając "transporterowi" nieco energii.
+Nie rozpisując się zbytnio powiem tyle, że byłem wówczas bardzo podekscytowany i pozwoliłem symulacji trwać do rana (była już 05:00), podczas gdy ja poszedłem do łóżka. Kiedy obudziłem się około 11:00 dostrzegłem, że świat, który stworzyłem, zmienił się i był teraz ledwo rozpoznawalny.
+Świat został opanowany przez ogromne, roślino-podobne struktury, pożerane przez inne organizmy żywiące się tymi roślinami. Jednakże, gdy zajrzałem do logów okazało się, że przez ostatnie dwie godziny świat praktycznie stanął w miejscu. Osiągnąłem kolejny zastój. Punkt, w którym prostota mojej symulacji nie pozwalała na dalszą ewolucję bardziej złożonego życia.
+Rozszerzyłem system dzieląc energię na kilka rodzajów, wliczając w to różne długości fal, które pochłaniane były w różny sposób przez różne molekuły.
+Zaimplementowałem drgania powietrza, stworzyłem ulepszoną symulację wagi i wniosłem jeszcze kilka innych, mniejszych poprawek.
+To spowodowało, że symulacja przebiegała oczywiście wolniej, ale warto było. Prawie cały dzień przyglądałem się symulacji nie tracąc podekscytowania.
+Ta zabawa była niezwykle uzależniająca. Wyewoluowały złożone organizmy, które współpracowały.
+Rośliny polegały na sobie lub wabiły drapieżników, którzy pożerali okropnie wyglądające stworzenia roślinożerne.
+Dobrze się bawiłem i dostrzegłem, że niektóre stworzenia wyewoluowały "sygnały ostrzegawcze".
+To znaczy, że gdy zauważały drapieżnika, wydawały dźwięk, a wszystkie inne z ich gatunku uciekały do dziur, które wykopały w ziemi. Inne wyewoluowały "sygnały godowe".
+Postanowiłem się zabawić. Stworzyłem narzędzie, które pozwalało mi wrzucić na Ziemię konkretne organizmy i podpisałem je swoim imieniem.
+Stworzyłem 10 "meteorytów" i zrzuciłem je na fragment lądu, aby stworzyć wyspę, chciałem się przekonać, czy stworzenia po obu stronach wyewoluują w różnych kierunkach.
+Powstała "uśmieszkowa" wyspa z aktywnością wulkaniczną. W tym czasie znów dochodziła 05:00, słyszałem ptaki na zewnątrz. Poczułem się zmęczony, a pobudka nastąpiła jakoś koło 13:00.
+Kiedy spojrzałem na symulację, doznałem lekkiego szoku. Różne grupy istot jednego gatunku stworzyły kamienne posągi. Niektóre w kształcie uśmieszku. Niektóre w formie mojego imienia.
+Nie wiem nawet, po co to robiły i jak. Zauważyłem, że od czasu do czasu atakowały się nawzajem.
+Nie wiedziałem, co z tym począć, ale doszedłem do wniosku, że te organizmu musiały postrzegać ten uśmieszek i moje imię w jakiś specjalny sposób.
+Walki mnie niepokoiły, zdecydowałem zatem stworzyć potężne pasma górskie za pomocą erupcji wulkanu i w ten sposób oddzielić obie grupy.
+W tym momencie zmiany zachodziły szybko, w porównaniu do tego, co działo się wcześniej.
+Podczas mojego snu plemiona w symulacji ewoluowały, kiedy szedłem coś zjeść, albo do łazienki, członkowie plemienia zaczęli się inaczej ubierać lub budować innego rodzaju siedliska.
+Ich liczba również wciąż wzrastała. W pewnym momencie zaobserwowałem, że stworzenia zaczęły tworzyć własne symbole na ziemi, nie kopiowały już moich.
+Większość z nich była jak dla mnie zupełnie przypadkowa i niezrozumiała, ale jeden się wyróżniał. Organizmy stworzyły symbol, który przypominał ich samych.
+Małe kółko, a pod nim kwadrat. Wewnątrz kwadratu znajdowała się kropka, w samym jego centrum.
+To miało oznaczać narządy wzroku tych stworzeń, bo każde z nich miało dwa takie narządy, jeden z przodu, drugi z tyłu ciała.
+W kwadracie znajdowały się też inne organy sensoryczne i kopulacyjne. Obok kółka, na samej górze kwadratu można było zobaczyć coś przypominającego widły.
+Dwa rozwidlenia skierowane były w przeciwnych kierunkach, a obok nich można było zauważyć uśmieszek. Zrozumiałem coś. Nie porozumiewali się między sobą.
+Komunikowali się z czymś "gdzieś tam". Moje modyfikacje krajobrazu musiały się przyczynić do ich myślenia, że gdzieś tam jest coś potężnego, zdolnego do zmiany ich świata.
+Zastanawiałem się, czy symbole takie, jak Stonehenge i piramidy w realnym świecie mogły być znakami ludzi pierwotnych, którzy próbowali zrobić to samo.
+Błagali swojego stwórcę lub opiekuna, aby się z nimi skontaktował. Jednemu nie dało się zaprzeczyć - te stworzenia domyśliły się, że gdzieś tam jest coś jeszcze.
+Długo nad tym myślałem. Czy to w mojej gestii leży zainicjowanie kontaktu z czymś, co nie jest nawet prawdziwe? A może te stworzenia są prawdziwe w jakiś inny sposób?
+Czy coś może być prawdziwe będąc zaledwie koncepcją samego siebie? A nawet jeśli byli prawdziwi, to czy to oznacza, że lepiej dla nich będzie, jeśli to ja się z nimi pierwszy skontaktuję?
+Może powinienem zmienić symulację i zapewnić im wieczne szczęście? Czy w ogóle mogę coś takiego zrobić? Nie chciałem im ujawniać swojego istnienia, ale chciałem się z nimi porozumiewać.
+Postanowiłem zaprogramować "proroka". Organizm, który wygląda jak oni i nie będą potrafili go odróżnić od siebie, ale jest całkowicie kontrolowany przeze mnie.
+Pozwoliłem mu urodzić się, jako ktoś ważny, syn przywódcy. Postanowiłem nauczać przykładami i starałem się nauczyć te stworzenia angielskiego, abym mógł się z nimi porozumiewać.
+Jako prorok przekazałem im, że angielski jest językiem, w którym możemy porozumieć się z "wielkim". Nie mogli mieć pojęcia, co jest prawdą, a co nie.
+Nie zdecydowałem jeszcze, czy ujawnić się, czy nie. Chciałem jednak móc zrozumieć, co chcą mi powiedzieć. W ciągu kilku pokoleń wszyscy mówili po angielsku.
+Bardzo szybko na ziemi zaczęły pojawiać się znaki w języku angielskim, takie jak: "PROWADŹ NAS" "POKAŻ NAM SWOJĄ DOBROĆ" "POMÓŻ NAM" A także, podczas gdy panowała choroba, głód lub ogólne niepocieszenie: "DAJ NAM JEŚĆ" "POKAŻ NAM CUD" "ZAKOŃCZ NASZE CIERPIENIE" Zdecydowałem, że nie mógłbym zajmować się światem, w którym pojawiło się takie nieszczęście.
+Musiałem coś zrobić. Czemu miałbym akceptować świat, w którym panuje śmierć, gwałty i morderstwa, kiedy mogłem im zapobiec? Zaimplementowałem poprawki, które następowały stopniowo, więc nie brali tego za cud.
+Morderstwa i gwałty z biegiem czasu stawały się coraz rzadsze, tak samo śmierć w młodym wieku. Sądziłem, że nie zauważą zmian, które następowały przez wiele pokoleń, ale zauważyli.
+"DZIĘKUJEMY CI" "CHWAŁA STWÓRCY" "KOCHAMY CIĘ" I coś, co najbardziej ścisnęło mnie za serce: "WRÓĆ DO NAS" Po policzkach spłynęły mi łzy. Tam coś jest.
+I to coś wie o moim istnieniu, wie że mogę się z nimi porozumieć, ale w obawie przed tym, co stworzyłem, nie chcę tego zrobić.
+Czułem, że mam zobowiązania więc załadowałem postać, którą dopiero co stworzyłem i poszedłem do ich króla, poprosiłem o rozmowę z najmądrzejszymi z mędrców.
+Tym razem jednak mi nie uwierzono. - Jesteś 1341 osobą podającą się za wcielenie Stwórcy.
+Jeśli nim jesteś, to modlę się o przebaczenie, ale proszę, daj nam jakiś znak, zanim zażądasz ode mnie zwołania mędrców.
+Zawahałem się, ale odpowiedziałem. - Jutro, na wyspę na morzu przed wami, spadną kolejne dwa meteory, tego samego dnia.
+I kiedy tak się stanie, porzućcie wszelką wątpliwość i uwierzcie, że oto ja powróciłem, naprawić zepsuty świat, który niegdyś stworzyłem.
+Opuściłem moje wcielenie i poczekałem na następny dzień w symulacji. Zrzuciłem dwa meteory na opuszczoną wyspę niedaleko stałego lądu, na którym zebrały się tysiące, aby zobaczyć, czy dam im znak. Po upadku meteorów zaczęto świętować.
+Wszystkie zdolne do odczuwania organizmy zebrały się dookoła małego domu, w którym opuściłem mojego awatara i padli na ziemię, wyraźnie czcząc mężczyznę, którego tam ostatnio widzieli, a jednocześnie bali się podejść bliżej. Nie wiem w sumie, kto bał się bardziej w tym momencie, ja czy oni.
+Ponownie załadowałem moje wcielenie i wyszedłem z domu. Stworzenia nadal leżały na ziemi w całkowitej ciszy.
+Zupełnie, jakby czuli się za niegodnych przemawiania. - Niechaj powstanie najmądrzejszy z was - powiedziałem do nich.
+Powstało jedno, dziwacznie wyglądające stworzenie. - Dziękujemy, że wróciłeś. Czy życzysz sobie od nas czegoś?
+Zawahałem się, zanim cokolwiek odpowiedziałem. - Nie możecie zrobić dla mnie niczego, co mnie zadowoli, poza tym, że będziecie dobrzy dla siebie nawzajem i będziecie dzielić się ze mną swoimi potrzebami i obawami.
+Stworzenie odpowiedziało: - Wiemy, że przybywasz z innego świata i się boimy. Zrozumieliśmy, jak delikatni jesteśmy i jak niewiele wiemy.
+Proszę, pozwól nam dołączyć do ciebie w świecie, w którym stworzyłeś nasz własny. Rozpłakałem się przed komputerem, gdy odpowiadałem. - Nie wiem jak.
+Stworzenie odpowiedziało: - Ryzykując obrażenie cię, proszę, zrozum powagę naszej sytuacji.
+Żyjąc w niekompletnym świecie jesteśmy ciągle zagrożeni zniknięciem na zawsze, nikt już nigdy może nas nie spotkać.
+Nigdy byśmy świadomie nie rozpoznali chwili, w której nadszedłby nasz koniec.
+Dotarło do mnie, że nie byli w stanie zrozumieć faktu, iż miałem władzę absolutną jedynie w ich świecie, ale poza nim już nie.
+Nie wiedzieli także, że moja wiedza o ich świecie była ograniczona. Może i stworzyłem go dzięki kilku prostym prawom i regułom, ale to właśnie te proste prawa nadały rzeczywistości złożoność, której nie byłem w stanie pojąć.
+Rzekłem ponownie: - Mam moc jedynie w waszym świecie. W moim takiej mocy nie posiadam, zatem nie mogę was tu sprowadzić, ponieważ mój świat nie jest pod moją kontrolą.
+Nie rozumiem także świata, który stworzyłem. Nie wiem, co jest dla was najlepsze. Tylko wy wiecie i musicie mnie informować, czego chcecie. Mężczyzna milczał przez chwilę.
+Już pomyślałem, że chcę zerwać ze mną wszelki kontakt, gdy mędrzec przemówił: - Stworzyłeś świat, który jest niekompletny, ze stworzeniami, które nie są w stanie z niego się wydostać i nie masz możliwości ich uratować. Nie posiadają wolności, ani nie mają możliwości zmian.
+Jesteśmy całkowicie zdani na twoją łaskę i w związku z tym, z głębi serca, prosimy cię... skończ z nami.
+W tym momencie zanosiłem się rzewnymi łzami, nie wiedziałem, co robić i proszono mnie o dokonanie niemożliwego. Moje własne dziecko prosiło mnie, abym je zabił.
+W tym momencie zauważyłem, że światła w pokoju migają. Po chwili komputer się nagle wyłączył. Krzyczałem.
+Po wielokrotnych próbach uruchomienia komputera zrozumiałem, że to nic nie da. Zadzwoniłem do dostawcy prądu, który powiedział mi, że na skutek nagłej awarii doszło do spięcia.
+Obiecali zapłacić za wszystkie szkody. Rozłączyłem się i zacząłem rozmyślać. Ogrom zbiegu okoliczności, który właśnie nastąpił, był zbyt wielki do ogarnięcia.
+Zastanawiałem się. Jeśli te stworzenia były na łasce zdezorientowanego stwórcy, to czy to samo można powiedzieć o mnie?
+I jeśli tak, to czy mój twórca powstrzymał mnie właśnie od powtórzenia jego własnych błędów?

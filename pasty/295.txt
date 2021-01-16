@@ -1,0 +1,29 @@
+Chciałbym wam opowiedzieć historię, która przydarzyła mi się około miesiąc temu. Wszystko zaczęło się, gdy siedziałem przed komputerem, jak zwykle przeglądając różne strony w internecie.
+
+W pewnym momencie na monitorze pojawiła się reklama pop-up ze zdjęciem uśmiechniętego mężczyzny na czarnym tle i napisem:
+
+ „Gratulacje! Zostałeś wybrany na zwycięzcę!”. 
+ 
+Reklama wyskoczyła na jednej ze stron, na które często wchodzę. Nie przywiązałem do niej zbytniej uwagi i wyłączyłem ją.Gdy wszedłem na następną stronę, ta reklama znów się pojawiła. Powtarzało się to na kilku następnych stronach, aż się wkurzyłem i wyłączyłem stronę, którą przeglądałem.
+
+Wszystko zaczęło być dziwne, gdy wszedłem na YouTube. Zwykle na tej stronie nie pojawiają się żadne pop-upy, przynajmniej ja się z nimi tu nie spotkałem. Jednak teraz wyskoczył właśnie ten pop-up. Wtedy się zaniepokoiłem. Zacząłem wchodzić na różne strony, nawet Google – za każdym razem pojawiało się to samo.
+
+Przestraszyłem się, że mój komputer ma jakiegoś wirusa, więc go przeskanowałem.
+
+Po długim i żmudnym procesie, antywirus nic nie wykazał – komputer wydawał się być w porządku. Jednak ta pieprzona reklama nie zniknęła, więc zresetowałem maszynę.
+
+Niestety bezskutecznie, bo to cholerstwo nadal tam było. To było już irytujące, szczególnie ten uśmiechnięty facet, którego mógłbym opisać jako „wilka w owczej skórze”. Nie było w nim nic ciepłego ani przyjaznego i mógłbym przysiąc, że jego uśmiech był udawany. Nie wiedziałem co o tym myśleć, ale przyszło mi do głowy, że reklama zniknie, jeśli na nią kliknę, a potem wyłączę stronę. Kliknięcie zamknęło reklamę i otworzyło nową kartę, na której nie było nic więcej poza linkiem do pobrania. W normalnej sytuacji po prostu bym to wyłączył, ale zauważyłem, że plik nazywał się „prize.rar”. Z tego co wiem, pliki .rar są nieszkodliwe, dopóki się ich nie rozpakuje. Zaciekawiło mnie to.
+
+Ściągnąłem plik, żeby go zbadać i przeskanowałem go antywirusem, który nic nie wykrył. Obejrzałem zawartość pliku poprzez WinRAR i znalazłem tylko plik tekstowy nazwany „Prize.txt”.
+
+Plik tekstowy? To wszystko? Pliki tekstowe chyba nie mogą być zawirusowane - pomyślałem. Być może się myliłem, ale skoro antywirus nic nie wykrył, rozpakowałem go i otworzyłem.
+
+Tak, jak się spodziewałem, plik zawierał tylko krótki tekst, ale nigdy nie zapomnę tego uczucia w żołądku.
+
+Gratulacje, zostałeś wytypowany na szczęśliwego zwycięzcę tego miesiąca! Nagroda została przygotowana dla ciebie i zostanie dostarczona pod podany adres.
+
+Poniżej był mój dokładny adres. Kilka sekund później ktoś zaczął dobijać się do drzwi. Siedziałem nieruchomo przez kilka minut, podczas gdy walenie nie ustawało. Nie wiem ile upłynęło czasu, aż się skończyło.
+
+Jak wspomniałem wcześniej, działo się to miesiąc temu i od tego czasu nie wydarzyło się nic podobnego. Ja jednak wciąż się boję, wiedząc, że ktokolwiek to był, wie gdzie mieszkam. Pomyślałem,
+
+że podzielę się z wami tą historią, żeby ostrzec was przed reklamą. Jeśli zdecydujecie się pobrać ten plik, upewnijcie się, że macie zamknięte drzwi i nie otwierajcie ich. Cokolwiek było po drugiej stronie, na pewno nie miało dobrych intencji.
